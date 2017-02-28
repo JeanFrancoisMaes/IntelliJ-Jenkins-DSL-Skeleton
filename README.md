@@ -21,3 +21,20 @@ this skeleton project assumes you have the following things already installed on
 * IntelliJ
 
 all you have to do is **git clone** this skeleton and open the gradle build with intelliJ
+
+
+
+### File structure
+------------------
+
+    .
+    ├── jobs                    # DSL script files
+    ├── resources               # resources for DSL scripts
+    ├── src
+    │   ├── main
+    │   │   ├── groovy          # support classes
+    │   │   └── resources
+    │   │       └── idea.gdsl   # IDE support for IDEA
+    │   └── test
+    │       └── groovy          # specs
+    └── build.gradle            # build file
