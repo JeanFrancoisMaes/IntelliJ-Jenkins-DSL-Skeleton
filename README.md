@@ -38,3 +38,8 @@ all you have to do is **git clone** this skeleton and open the gradle build with
     │   └── test
     │       └── groovy          # specs
     └── build.gradle            # build file
+
+
+
+**note:** this repository is a stripped down version of: https://github.com/sheehan/job-dsl-gradle-example
+in that repository you will find the same code but for an older jenkins version, with example files if anything would be unclear. :) 
