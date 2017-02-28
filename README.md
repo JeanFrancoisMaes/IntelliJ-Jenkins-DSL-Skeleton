@@ -17,7 +17,7 @@ So I created this repository that includes a **gradle build**.
 this skeleton project assumes you have the following things already installed on your system:
 
 * Java
-* Gradle (you could us a gradle wrapper, but this has not been tested by me)
+* Gradle (you could us a gradle wrapper, there is one provided in here.)
 * IntelliJ
 
 all you have to do is **git clone** this skeleton and open the gradle build with intelliJ
